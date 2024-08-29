@@ -24,3 +24,5 @@ List of commands:
 - /woj set <number> <message> Sets the welcome message
 - /woj remove <number> - removes the welcome message
 - /woj reload - Reloads the config, useful after changing stuff in config
+
+PlaceholderAPI is supported, and even recommended!
